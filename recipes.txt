@@ -6,7 +6,8 @@ kheer
 asta
 chicken f
 
-
+beans
+pizza
 
 
 thank o
